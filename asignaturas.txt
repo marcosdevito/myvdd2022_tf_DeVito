@@ -1,0 +1,53 @@
+Act_curricular	Departamento	Cuatrimeste_carrera
+Algebra lineal (FB9)	Formación Básica	3° cuatrimestre
+Algebra y geometría analítica (FB3)	Formación Básica	1° cuatrimestre
+Automatización industrial (I12)	Tecnologías Básicas	6° cuatrimestre
+Cálculo I (FB2)	Formación Básica	1° cuatrimestre
+Cálculo II (FB5)	Formación Básica	2° cuatrimestre
+Cálculo III (FB8)	Formación Básica	3° cuatrimestre
+Cálculo IV (FB18)	Formación Básica	4° cuatrimestre
+Costos y control de gestión (I16)	Economía y Organización	7° cuatrimestre
+Decisiones estadísticas y control de la calidad (I15)	Optimización y Control	7° cuatrimestre
+Economía (I5)	Economía y Organización	4° cuatrimestre
+Electrotecia y máquinas eléctricas (I7)	Tecnologías Básicas	5° cuatrimestre
+Ergonomía (ELI1)	Tecnologías de la Producción	Espacio curricular electivo
+Estática y resistencia de materiales (I4)	Tecnologías Básicas	4° cuatrimestre
+Estudio del Trabajo (I9635)	Tecnologías de la Producción	9° cuatrimestre
+Estudios de impacto ambiental en la evaluación de proyectos (ELI3)	Tecnologías de la Producción	Espacio curricular electivo
+Finanzas y evaluación de proyectos de inversión (I31)	Economía y Organización	10° cuatrimestre
+Física I (FB6)	Formación Básica	2° cuatrimestre
+Física III (FB10)	Formación Básica	4° cuatrimestre
+Gestión de la calidad (I22)	Optimización y Control	8° cuatrimestre
+Industrias (I3)	Tecnologías de la Producción	2° cuatrimestre
+Informática  aplicada (FB16)	Formación Básica	3° cuatrimestre
+Informática (FB7)	Formación Básica	2° cuatrimestre
+Introducción a la Gestión de la Energía orientada a la Industria (ELI6)	Tecnologías Básicas	Espacio curricular electivo
+Introducción a la ingeniería del envasado (ELI4)	Tecnologías de la Producción	Espacio curricular electivo
+Introducción a la optimización (I14)	Optimización y Control	6° cuatrimestre
+Investigación operativa I (I21)	Optimización y Control	8° cuatrimestre
+Legislación (I19)	Economía y Organización	7° cuatrimestre
+Organizaciones (I2)	Economía y Organización	2° cuatrimestre
+Planificación y control de la producción (I29)	Optimización y Control	10° cuatrimestre
+Sistemas de Producción (I28)	Optimización y Control	9° cuatrimestre
+Probabilidad y estadística  A (FB22)	Formación Básica	6° cuatrimestre
+Procesos de producción I (I13)	Tecnologías de la Producción	6° cuatrimestre
+Procesos de producción II (I18)	Tecnologías de la Producción	7° cuatrimestre
+Prueba de suficiencia de inglés (FI9)	Formación Integral	4° cuatrimestre
+Química  industrial (FB21)	Formación Básica	4° cuatrimestre
+Relaciones del trabajo (I24)	Economía y Organización	8° cuatrimestre
+Representación gráfica (FB4)	Formación Básica	1° cuatrimestre
+Sistema de información (I11)	Optimización y Control	6° cuatrimestre
+Suministros (I30)	Optimización y Control	10° cuatrimestre
+Tecnología de los materiales (I8)	Tecnologías Básicas	5° cuatrimestre
+Física II (FB14)	Formación Básica	3° cuatrimestre
+Introducción a la física (FB1)	Formación Básica	1° cuatrimestre
+Investigación operativa II (I25)	Optimización y Control	9° cuatrimestre
+Simulación de sistemas (I26)	Optimización y Control	9° cuatrimestre
+Introducción a la ingeniería industrial (I1)	Tecnologías de la Producción	1° cuatrimestre
+Instalaciones industriales (I9)	Tecnologías de la Producción	5° cuatrimestre
+Ambiente sustentable, higiene y seguridad (I17)	Tecnologías de la Producción	7° cuatrimestre
+Introducción a la ingeniería de alimentos (ELI5)	Tecnologías de la Producción	Espacio curricular electivo
+Termodinámica y máquinas térmicas (I6)	Tecnologías Básicas	5° cuatrimestre
+Mecánica de los fluidos (I10)	Tecnologías Básicas	5° cuatrimestre
+Comercialización (I20)	Economía y Organización	7° cuatrimestre
+Emprendedorismo	Formación Integral	Espacio curricular electivo
